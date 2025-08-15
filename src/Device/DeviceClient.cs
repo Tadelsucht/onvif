@@ -1,4 +1,6 @@
-﻿using Mictlanix.DotNet.Onvif.Common;
+using Mictlanix.DotNet.Onvif.Common;
+using DateTime = Mictlanix.DotNet.Onvif.Common.DateTime;
+using TimeZone = Mictlanix.DotNet.Onvif.Common.TimeZone;
 
 namespace Mictlanix.DotNet.Onvif.Device
 {
