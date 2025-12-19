@@ -13857,6 +13857,9 @@ namespace Mictlanix.DotNet.Onvif.Common {
 
 		/// <remarks/>
 		H264,
+
+		/// <remarks/>
+		H265,
 	}
 
 	/// <remarks/>
